@@ -52,8 +52,6 @@ Cats trained in ethical hacking, password sniffing, and "accidentally" knocking 
 
 **Notable faculty:** Professor Alastor D'Angelo (permanently annoyed, expert in firewall configuration)
 
----
-
 ### Department of Drama & Performing Arts
 
 Emotional, dramatic, theatrical cats who meow like they're in a telenovela.
@@ -66,8 +64,6 @@ Emotional, dramatic, theatrical cats who meow like they're in a telenovela.
 
 **Admissions requirement:** One dramatic faint on a carpet (carpeted surfaces only, hardwood doesn't count)
 
----
-
 ### Department of Makeup & Aesthetics
 
 Where glam meets claws. Beauty-guru cats teach contouring, color theory, and eyeliner sharper than their claws.
@@ -78,8 +74,6 @@ Where glam meets claws. Beauty-guru cats teach contouring, color theory, and eye
 - Self-presentation & identity design
 - Advanced whisker grooming
 
----
-
 ### Department of Cinema & Digital Arts
 
 Filmmaker cats who know exactly how to block the camera.
@@ -89,8 +83,6 @@ Filmmaker cats who know exactly how to block the camera.
 - Storyboard creation & editing
 - Immersive visual storytelling
 - Accidentally starring in your own productions
-
----
 
 ### Department of Computer Science
 
@@ -104,8 +96,6 @@ Coders who vibe in pink, lavender, and late-night debugging storms.
 
 **Primary tools:** VS Code (dark mode with lavender accents), lavender tea, insomnia
 
----
-
 ### Department of Sciences
 
 Exploring Biology, Chemistry, Physics, and the eternal mystery of the moving laser dot.
@@ -115,8 +105,6 @@ Exploring Biology, Chemistry, Physics, and the eternal mystery of the moving las
 - Storm-based atmospheric studies
 - Quantum mechanics (why does the laser move like that?)
 - Applied napping physics
-
----
 
 ### School of Cozy Environmental Studies
 
@@ -128,8 +116,6 @@ A holistic program dedicated to rose gardens, stormy skies, and the art of tea.
 - Living in harmony with one's surroundings
 - Advanced tea preparation (lavender-focused)
 
----
-
 ### School of Aesthetic & Surreal Studies
 
 Examines atmosphere, dream logic, emotional landscapes, and ethereal design.
@@ -140,8 +126,6 @@ Examines atmosphere, dream logic, emotional landscapes, and ethereal design.
 - Emotional cartography
 - VHS aesthetics & film grain theory
 
----
-
 ### School of Professional & Social Disciplines
 
 Business, psychology, communication, digital culture, and applied modern studies.
@@ -151,8 +135,6 @@ Business, psychology, communication, digital culture, and applied modern studies
 - Social media theory (integration with Souveneko)
 - Professional development for cats and cat-adjacent humans
 - Operating with equal parts instinct and intentionality
-
----
 
 ### Applied Cat Engineering & Compatibility Research (ACECR)
 
@@ -188,8 +170,6 @@ To engineer harmonious coexistence between cats, humans, objects, furniture, lap
 
 ---
 
----
-
 ## Notable Faculty & Administration
 
 ### Head Master Elessandro La Rosa
@@ -210,8 +190,6 @@ What few students realize is how many of them owe their careers to him. Quietly,
 
 Office hours: "Don't."
 
----
-
 ### Valerie Rosewood
 
 **Department:** Literature & Aesthetic Studies  
@@ -223,8 +201,6 @@ Office hours: "Don't."
 Valerie Rosewood teaches with a gentle precision that makes even harsh feedback feel like encouragement. Her classes are conducted over lavender tea, and her students leave not only better writers, but better thinkers.
 
 She has never raised her voice. She's never needed to.
-
----
 
 ### Artemis Ivory
 
@@ -238,8 +214,6 @@ Artemis Ivory teaches at the edges of understanding—where philosophy meets dre
 
 He has a pet owl named Echo. This remains controversial.
 
----
-
 ### Professor Alastor D'Angelo
 
 **Department:** Computer Science & Cybersecurity
@@ -251,8 +225,6 @@ He has a pet owl named Echo. This remains controversial.
 Professor Alastor D'Angelo is a tenured faculty member with zero patience for undergrads who don't RTFM. He makes angry "MRRROW" sounds during lectures and assigns problem sets widely rumored to be impossible.
 
 He will never admit he cares. (For the record: he doesn't. Stop asking.)
-
----
 
 ### Ivelle Knight
 
@@ -266,8 +238,6 @@ Ivelle Knight recently joined the faculty after completing her PhD in "Crying Ov
 
 Students love her. She's not sure why.
 
----
-
 ### Pearl Rivers
 **Department:** Digital Arts & Cinema  
 **Office:** The Film Studio (always perfectly lit)  
@@ -278,8 +248,6 @@ Students love her. She's not sure why.
 Pearl Rivers teaches students to see the world through a lens—literally and metaphorically. Her feedback comes back color-graded and softly blurred. Her assignments are as much about emotion as they are about technique.
 
 She has never shot a scene in harsh lighting. It's against her religion.
-
----
 
 ### Elton Pierce
 
@@ -408,6 +376,6 @@ All contributions, ideas, and cat applications welcome.
 
 *Part of the [Shimmerwhere](https://github.com/shimmerwhere) universe*  
 *Styled with catgloss*
----
+
 
 > *"Knowledge is a sunbeam; some chase it, some nap in it, and at Echoura, every cat finds its place within the light."*
